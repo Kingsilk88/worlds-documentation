@@ -21,7 +21,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 6. Find your new textured model in the **Gen AI Assets** section of your assets panel.  
 7. Drag the model from the assets panel and place it onto your platform.
 
-![Step 1 Icon](../../images/image1.png)
+<!-- Image removed: image1.png -->
 
 ---
 
@@ -32,7 +32,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 3. Click **Generate** to create the code.  
 4. Test the script to ensure the cowboy moves forward.
 
-![Step 2 Icon](../../images/image2.png)
+<!-- Image removed: image2.png -->
 
 ---
 
@@ -46,7 +46,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 6. Go back to your assistant and ask it to "attach the sound to the horse as it's moving forward."  
 7. Test the sound to ensure it plays with the horse's movement.
 
-![Step 3 Icon](../../images/image3.png)
+<!-- Image removed: image3.png -->
 
 ---
 
@@ -57,7 +57,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 3. Type "firewood" in the prompt field.  
 4. When the texture appears, click **Save and Apply Texture**. The cylinder will now look like a log of firewood.
 
-![Step 4 Icon](../../images/image4.png)
+<!-- Image removed: image4.png -->
 
 ---
 
@@ -68,7 +68,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 3. Choose your preferred sound from the options and click **Generate**.  
 4. Find the ambient sound in your **Gen AI Assets** and drag it into your platform.
 
-![Step 5 Icon](../../images/image5.png)
+<!-- Image removed: image5.png -->
 
 ---
 
@@ -78,7 +78,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 2. Type "forest, mountain and lakes" in the prompt field.  
 3. Once the sky dome is generated, click **Save and Apply Sky Dome**.
 
-![Step 6 Icon](../../images/image6.png)
+<!-- Image removed: image6.png -->
 
 ---
 
@@ -90,7 +90,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 4. Optionally, you can add extra details to the prompt to customize the environment further.  
 5. Click **Generate**.
 
-![Step 7 Icon](../../images/image7.png)
+<!-- Image removed: image7.png -->
 
 ---
 
@@ -98,7 +98,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 
 1. Use the assets and environment you've created to drag and drop objects into your scene for further customization.
 
-![Step 8 Icon](../../images/image8.png)
+<!-- Image removed: image8.png -->
 
 ---
 
@@ -106,7 +106,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 
 1. Click the **Play** or **Test** button to see your Gen AI scene in action.
 
-![Step 9 Icon](../../images/image9.png)
+<!-- Image removed: image9.png -->
 
 ---
 
@@ -114,7 +114,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 
 1. Click the **Save** icon or use the save option in your menu to store your project.
 
-![Step 10 Icon](../../images/image10.png)
+<!-- Image removed: image10.png -->
 
 ---
 
@@ -122,7 +122,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 
 1. Use the **Share** button or menu option to invite others to view or collaborate on your scene.
 
-![Step 11 Icon](../../images/image11.png)
+<!-- Image removed: image11.png -->
 
 ---
 
@@ -130,7 +130,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 
 1. Click the **Export** or **Publish** button to make your scene available outside of the editor.
 
-![Step 12 Icon](../../images/image12.png)
+<!-- Image removed: image12.png -->
 
 ---
 
@@ -138,7 +138,7 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 
 1. Look for **Advanced** or **Settings** options to further tweak lighting, physics, or other scene parameters.
 
-![Step 13 Icon](../../images/image13.png)
+<!-- Image removed: image13.png -->
 
 ---
 
@@ -146,4 +146,4 @@ This guide will walk you through creating a simple scene using the Gen AI Creato
 
 1. Continue editing, experimenting, and enjoying your new Gen AI-powered world.
 
-![Step 14 Icon](../../images/image14.png)
+<!-- Image removed: image14.png -->
